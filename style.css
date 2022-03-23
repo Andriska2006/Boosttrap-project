@@ -3,4 +3,14 @@
 color: red;
 text-decoration: underline;
 
+}   
+
+#link:hover {
+    text-decoration: underline;
+    color: cyan;
+    font-weight: bold;
+}
+
+p{
+    text-align: justify;
 }
