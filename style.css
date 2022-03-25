@@ -21,11 +21,27 @@ p{
 
 #just{
     text-align: justify;
+    list-style-type: square;
 }
 #lo2 {
     width: 576px;
     padding-left: 50px;
     padding-top: 15px;
 }
+
+ul{
+
+    display:block;
+    
+    margin:auto;
+    
+    }
+
+    #lo5{
+        padding-right: 275px;
+    }
+    #lo6{
+        padding-left: 225px;
+    }
 
 
