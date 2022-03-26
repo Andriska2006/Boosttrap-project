@@ -9,7 +9,7 @@ text-decoration: underline;
     text-decoration: underline;
     color: cyan;
     font-weight: bold;
-}
+}    
 
 p{
     text-align: justify;
@@ -44,4 +44,34 @@ ul{
         padding-left: 225px;
     }
 
+    .szoveg1{
+        border-top-left-radius: 50px;
+        border-bottom-left-radius: 50px;
+        text-align: justify;
+        font-size: 20px;
+       
+       }
+    #arckep{
+        width: 180px;
+        padding-top: 20px;
+        }
+        #szt{
+            width: 170px;
+            padding-top: 20px;
+            
+        }
 
+        .szoveg2{
+            border-top-right-radius: 50px;
+            border-bottom-right-radius: 50px;
+            text-align: justify;
+            font-size: 20px;
+           
+           }
+
+           #ch{
+            width: 200px;
+            padding-top: 25px;
+            
+        }
+     
